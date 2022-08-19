@@ -1,0 +1,17 @@
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\bin\Debug\netstandard2.0\Examen_3.deps.json
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\bin\Debug\netstandard2.0\Examen_3.dll
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\bin\Debug\netstandard2.0\Examen_3.pdb
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Examen_3.csproj.AssemblyReference.cache
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Examen_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Views\ListaPagos.xaml.g.cs
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Views\VistaAgregar.xaml.g.cs
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Examen_3.AssemblyInfoInputs.cache
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Examen_3.AssemblyInfo.cs
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Examen_3.csproj.CoreCompileInputs.cache
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Examen_3.dll
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\refint\Examen_3.dll
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\Examen_3.pdb
+C:\Users\ivisl\source\repos\Examen_3\Examen_3\obj\Debug\netstandard2.0\ref\Examen_3.dll
